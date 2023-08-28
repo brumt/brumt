@@ -1,13 +1,15 @@
 
 
 ## Hi, I’m Bruna!
+<div style= "gap: 12">
+<a href="https://github.com/brumt/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brumt&show_icons=true&theme=aura" />
+</a>
+<a href="https://github.com/brumt/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brumt&layout=compact&theme=aura" />
+</a>
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brumt&show_icons=true&count_private=true&hide_border=true&title_color=B799FF&icon_color=ACBCFF&text_color=c9d1d9&bg_color=0d1117" alt="Bruna github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brumt&layout=compact&hide_border=true&title_color=B799FF&text_color=ACBCFF&bg_color=0d1117" />
 </div>
-
  
  ### Main skills
 
